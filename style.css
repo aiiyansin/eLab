@@ -70,3 +70,11 @@ h2 {
 	padding: 0.5rem;
 	color: black;
 }
+
+.biotech-labs{
+	padding-left: 2%;
+}
+
+.left-content{
+border-right: 1px double;
+}
