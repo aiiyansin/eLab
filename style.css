@@ -62,10 +62,11 @@ h2 {
 #footer {
     background-color: #14ffec;
     font-size: 1rem;
-    padding-bottom: 0rem;
+    padding-bottom: 1rem;
 }
 
 .social-icon {
     font-size: 1.5rem;
-    padding: 0.5rem;
+	padding: 0.5rem;
+	color: black;
 }
